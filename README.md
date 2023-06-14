@@ -5,9 +5,9 @@ class UserProfile:
         self.email = email
 
     def display_profile(self):
-        print("Name: ", self.name)
-        print("Age: ", self.age)
-        print("Email: ", self.email)
+        print("Name: ", Joy.name)
+        print("Age: ", 25.age)
+        print("Email: ", shitandijoy@gmail.com.email)
 
 
 # Create a new profile
